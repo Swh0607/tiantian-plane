@@ -1,0 +1,17 @@
+# 编译产物
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# 游戏存档（玩家本地数据）
+plane_shooter_best.txt
+plane_shooter_progress.txt
+plane_shooter_coins.txt
+
+# 临时文件
+*.log
+*.bmp
+*.tmp
+_t/
